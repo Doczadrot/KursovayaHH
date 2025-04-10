@@ -1,0 +1,741 @@
+[
+    {
+        "name": "QA engineer",
+        "requirements": "Уверенные знания теории тестирования. Умение составлять тест-планы и тест-кейсы, знание техник тест-дизайна. Опыт тестирования API от 2...",
+        "url": "https://hh.ru/vacancy/119333798",
+        "salary": null,
+        "employer": "RUTUBE"
+    },
+    {
+        "name": "QA Engineer",
+        "requirements": "Навыки работы с базами данных, составление базовых SQL запросов. Опыт работы с <highlighttext>Python</highlighttext> от 1 года. Опыт тестирования REST API...",
+        "url": "https://hh.ru/vacancy/119375076",
+        "salary": null,
+        "employer": "СБЕР"
+    },
+    {
+        "name": "QA engineer",
+        "requirements": "Коммерческий опыт в роли тестировщика от 1 года. Знание <highlighttext>Python</highlighttext> для написания тестовых скриптов. Знание Linux на уровне пользователя, умение...",
+        "url": "https://hh.ru/vacancy/119246134",
+        "salary": {
+            "from": 150000,
+            "to": 230000,
+            "currency": "RUR"
+        },
+        "employer": "Tevian (ООО Технологии видеоанализа)"
+    },
+    {
+        "name": "Тестировщик Junior",
+        "requirements": "Готовность выполнить тестовое задание. Владение как минимум одним языком программирования (предпочтительно <highlighttext>Python</highlighttext>). Опыт использования GIT. Опыт работы с docker. ",
+        "url": "https://hh.ru/vacancy/119387401",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "ВижнЛабс (VisionLabs)"
+    },
+    {
+        "name": "QA–инженер (Middle)",
+        "requirements": "Уверенные знания одного из языков программирования для написания автотестов (например, <highlighttext>Python</highlighttext>, Java, JavaScript). Опыт работы с фреймворками для автоматизации тестирования...",
+        "url": "https://hh.ru/vacancy/119361129",
+        "salary": null,
+        "employer": "VL.RU"
+    },
+    {
+        "name": "Senior QA Engineer",
+        "requirements": "Опыт автоматизации процесса тестирования (написание автоматических тестов). Умение читать и запускать код на <highlighttext>python</highlighttext> или java. Инженерный бэкграунд и опыт...",
+        "url": "https://hh.ru/vacancy/119316167",
+        "salary": null,
+        "employer": "Xello"
+    },
+    {
+        "name": "Senior Frontend Developer",
+        "requirements": "5+ years of React and Typescript experience. Experience with HTML5 and CSS3. <highlighttext>Python</highlighttext>, Node, SQL (bonus). ",
+        "url": "https://hh.ru/vacancy/119377126",
+        "salary": {
+            "from": 5000,
+            "to": 10000,
+            "currency": "USD"
+        },
+        "employer": "Podscribe"
+    },
+    {
+        "name": "Младший тестировщик/Junior+ QA",
+        "requirements": "Опыт написания автотестов на <highlighttext>Python</highlighttext> с использованием Selenium (pytest или любой другой тестовый фреймворк). Навыки разработки API-тестов на <highlighttext>Python</highlighttext>...",
+        "url": "https://hh.ru/vacancy/119343055",
+        "salary": null,
+        "employer": "РУТ КОД"
+    },
+    {
+        "name": "Стажёр-аналитик данных, Антибот",
+        "requirements": "Готовность к полной занятости. Хорошая математическая база. Уверенное знание <highlighttext>Python</highlighttext>3. Базовые знания SQL. Развитое аналитическое системное мышление.",
+        "url": "https://hh.ru/vacancy/118974223",
+        "salary": null,
+        "employer": "Ozon"
+    },
+    {
+        "name": "Manual QA Engineer (Middle)",
+        "requirements": "Понимание основ тестирования. Опыт тестирования бизнес-приложений. Опыт тестирования API сервисов. Опыт написания тест-кейсов и составление чек-листов. ",
+        "url": "https://hh.ru/vacancy/119302701",
+        "salary": null,
+        "employer": "ВСК, САО"
+    },
+    {
+        "name": "QA engineer",
+        "requirements": "Знание основ электротехники, пневматики, схемотехники и промышленных протоколов связи (Profibus, Profinet, Ethernet/IP). Базовые знания <highlighttext>Python</highlighttext> для написания скриптов тестирования...",
+        "url": "https://hh.ru/vacancy/119207853",
+        "salary": null,
+        "employer": "HARTUNG"
+    },
+    {
+        "name": "Тестировщик/QA",
+        "requirements": "Больше года работает в ручном тестировании или QA. Знает теорию тестирования и умеет применять ее на практике. Обладает начальными навыками...",
+        "url": "https://hh.ru/vacancy/119191393",
+        "salary": null,
+        "employer": "PRO32"
+    },
+    {
+        "name": "Middle QA Engineer в компанию SOFTHUB",
+        "requirements": "Опыт работы с инструментами для тестирования микросервисных архитектур. Знание языков программирования (JavaScript / TypeScript, <highlighttext>Python</highlighttext>). Опыт работы с инструментами автоматизации тестирования...",
+        "url": "https://hh.ru/vacancy/119388835",
+        "salary": null,
+        "employer": "СОФТХАБ"
+    },
+    {
+        "name": "QA инженер",
+        "requirements": "Умение работать с системами багтрекинга. Опыт разработки и поддержки автотестов (<highlighttext>Python</highlighttext>). Опыт работы с СУБД (Oracle и Postgres как преимущество). ",
+        "url": "https://hh.ru/vacancy/119344138",
+        "salary": null,
+        "employer": "СБЕР"
+    },
+    {
+        "name": "QA engineer",
+        "requirements": "Знание языка запросов SQL, опыт работы с базами данных. Опыт работы с <highlighttext>Python</highlighttext> и Selenium webdriver. Аккуратность, активность, умение работать...",
+        "url": "https://hh.ru/vacancy/119359400",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "Витакор"
+    },
+    {
+        "name": "QA engineer (Middle)",
+        "requirements": "Высшее образование, желательно техническое. Опыт тестирования ПО от 3 лет. Опыт написания тестовой документации и анализа требований. Умение анализировать информацию...",
+        "url": "https://hh.ru/vacancy/119191835",
+        "salary": null,
+        "employer": "Ростелеком - Центры обработки данных"
+    },
+    {
+        "name": "Manual QA Engineer",
+        "requirements": "Умение составлять тест-планы, чек-листы и сценарии тестирования. Опыт написания скриптов (Bash, <highlighttext>Python</highlighttext>). Опыт написания автотестов. Тестирование REST API...",
+        "url": "https://hh.ru/vacancy/119166217",
+        "salary": null,
+        "employer": "AERODISK"
+    },
+    {
+        "name": "Python-разработчик",
+        "requirements": "Что мы от тебя хотим: Опыт коммерческой разработки от 3х лет. Уверенные знания <highlighttext>python</highlighttext>; Понимание асинхронности. Опыт работы с...",
+        "url": "https://hh.ru/vacancy/119375165",
+        "salary": {
+            "from": 100000,
+            "to": 300000,
+            "currency": "RUR"
+        },
+        "employer": "Secunda"
+    },
+    {
+        "name": "Middle/Middle+ QA Engineer",
+        "requirements": "...работы и отличий. Практический опыт работы с системами CI/CD (GitLab CI) и Docker. Знание <highlighttext>python</highlighttext> или другого языка программирования.",
+        "url": "https://hh.ru/vacancy/119215315",
+        "salary": null,
+        "employer": "Вайт Код"
+    },
+    {
+        "name": "Инженер-тестировщик",
+        "requirements": "Будет преимуществом. Знание основ языков программирования <highlighttext>Python</highlighttext>, C++. Личные качества: Ответственность, самостоятельность. Высокая внимательность к деталям и способность к анализу...",
+        "url": "https://hh.ru/vacancy/119303182",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "БИС"
+    },
+    {
+        "name": "Химик–сновидец",
+        "requirements": "Химическое образование (начинающий специалист или студент). Понимание химических процессов, отличное знание химии. Умение грамотно доносить свои мысли. Уверенная речь. ",
+        "url": "https://hh.ru/vacancy/119295184",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "ARSKA Technologies"
+    },
+    {
+        "name": "QA Manual Engineer",
+        "requirements": "Опыт ручного тестирования от 2-х лет (веб-приложения). - Понимание клиент-серверного взаимодействия (HTTP, API, DevTools). - Опыт работы с Postman...",
+        "url": "https://hh.ru/vacancy/119283020",
+        "salary": null,
+        "employer": "Визардс"
+    },
+    {
+        "name": "QA Engineer/Тестировщик (middle)",
+        "requirements": "Jira, ZephyrScale / TestRail, Postman, Kibana, Grafana, Elastic, Charles/WildShark или схожие по функционалу. Уверенное использование DevTools, понимание, где ошибка(на...",
+        "url": "https://hh.ru/vacancy/119376282",
+        "salary": null,
+        "employer": "Юрент"
+    },
+    {
+        "name": "Инженер по тестированию",
+        "requirements": "Умение писать тестовую документацию (тест-кейсы, чек-листы). Опыт работы с jira/confluence. Готовность к обучению и умение принимать самостоятельные...",
+        "url": "https://hh.ru/vacancy/119376653",
+        "salary": null,
+        "employer": "Национальный туроператор Алеан"
+    },
+    {
+        "name": "Инженер по ручному тестированию (ДБО ЮЛ)",
+        "requirements": "Знание методик тестирования и понимание принципов тестирования. Опыт работы с багтрекерами (предпочтительно Jira), системой ведения проектной документации Confluence. ",
+        "url": "https://hh.ru/vacancy/118472001",
+        "salary": null,
+        "employer": "РСХБ-Интех"
+    },
+    {
+        "name": "Middle QA engineer (Manual)",
+        "requirements": "Опыт работы в тестировании ПО более 2-х лет. Понимание процессов, методологий и практик разработки ПО. Опыт создания и поддержки...",
+        "url": "https://hh.ru/vacancy/119337735",
+        "salary": null,
+        "employer": "СберСпасибо"
+    },
+    {
+        "name": "QA инженер/QA engineer/Тестировщик (Backend)",
+        "requirements": "Знание Linux и понимание как он устроен. Знание теории тестирования, видов тестирования и техник тест-дизайна. Понимание Rest API и...",
+        "url": "https://hh.ru/vacancy/119215417",
+        "salary": null,
+        "employer": "Ростелеком Информационные Технологии"
+    },
+    {
+        "name": "Инженер по функциональному тестированию ПО",
+        "requirements": "Опыт работы не менее 2 лет в качестве <highlighttext>инженера</highlighttext> по тестированию ПО. Уверенные навыки тестирования веб-сервисов и пользовательских интерфейсов...",
+        "url": "https://hh.ru/vacancy/119386299",
+        "salary": null,
+        "employer": "Mediascope"
+    },
+    {
+        "name": "QA Engineer Ручной",
+        "requirements": "Желание развиваться в области тестирования программного обеспечения. Базовые знания в области IT и программирования. Умение работать в команде и эффективно...",
+        "url": "https://hh.ru/vacancy/119278057",
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR"
+        },
+        "employer": "Хантфлоу интеграция УЗ2"
+    },
+    {
+        "name": "QA Engineer",
+        "requirements": "Анализ требований. Опыт коммерческого тестирования Web-приложений и backend’a от 1,5 лет. Опыт создания тестовых артефактов: тест-кейсы...",
+        "url": "https://hh.ru/vacancy/119347772",
+        "salary": null,
+        "employer": "FinFort"
+    },
+    {
+        "name": "QA инженер (ручное тестирование)",
+        "requirements": "Уверенное знание теории тестирования. Уверенное владение техниками тест-дизайна. Опыт в web-тестировании (DevTools, traffic sniffer, REST API, клиент-серверная...",
+        "url": "https://hh.ru/vacancy/119379497",
+        "salary": null,
+        "employer": "Nexign (АО Нэксайн)"
+    },
+    {
+        "name": "QA Engineer / Тестировщик",
+        "requirements": "Опыт работы от 2 лет в области тестирования программного обеспечения. Отлично развитые коммуникативные навыки (письменная коммуникация). Опыт тестирования как по...",
+        "url": "https://hh.ru/vacancy/119383375",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR"
+        },
+        "employer": "Теории от практиков"
+    },
+    {
+        "name": "QA Engineer Тестировщик",
+        "requirements": "Опыт работы от 2х лет. Опыт тестирования проектов с платежными сервисами/опыт работы с финтех продуктами. Опыт тестирования веб...",
+        "url": "https://hh.ru/vacancy/119392216",
+        "salary": {
+            "from": 80000,
+            "to": 110000,
+            "currency": "RUR"
+        },
+        "employer": "Криптон Студио"
+    },
+    {
+        "name": "QA инженер (middle/middle+)",
+        "requirements": "2+ года опыта в тестировании web, API и mobile (мобильное тестирование — обязательный пункт). Уверенная работа с базами данных. ",
+        "url": "https://hh.ru/vacancy/119399854",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "МЕН ИН ДЕВ"
+    },
+    {
+        "name": "Тестировщик ПО (QA Engineer)",
+        "requirements": "Знание SQL. Опыт тестирования web-приложений (будет плюсом, если они разработаны на Delphi, особенно в контексте взаимодействия с базами данных...",
+        "url": "https://hh.ru/vacancy/118819903",
+        "salary": null,
+        "employer": "Группа страховых компаний Югория"
+    },
+    {
+        "name": "QA-инженер",
+        "requirements": "Практическим опытом в коммерческих проектах от 1 года. Навыками функционального, регрессионного, интеграционного, API – тестирования и понимаем цели каждого из них. ",
+        "url": "https://hh.ru/vacancy/119314248",
+        "salary": null,
+        "employer": "Норд Клан"
+    },
+    {
+        "name": "QA-инженер",
+        "requirements": "Java 8-11, Spring 5, SpringBoot 2, Spring JPA, Hibernate, PostgreSQL. — умение работать с задачами и KANBAN-досками. — ",
+        "url": "https://hh.ru/vacancy/119249742",
+        "salary": null,
+        "employer": "Utrace"
+    },
+    {
+        "name": "Менеджер",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222248",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Водитель-фельдъегерь, категория В",
+        "requirements": "Образование не ниже средне специального. Прохождение комиссии на оружие. Категория В.",
+        "url": "https://hh.ru/vacancy/118254241",
+        "salary": {
+            "from": 50000,
+            "to": 50000,
+            "currency": "RUR"
+        },
+        "employer": "Спецсвязь России (ГЦСС) ФГУП"
+    },
+    {
+        "name": "Менеджер",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222253",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Администратор",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222249",
+        "salary": {
+            "from": 114000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Администратор",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222254",
+        "salary": {
+            "from": 125000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Старший продавец-кассир (сеть магазинов Алёнка)",
+        "requirements": "Приветствуется опыт работы в сетевых магазинах продуктов питания от 1 года. Ориентация на результат, ответственность, доброжелательность. Позитивный̆ настрой. ",
+        "url": "https://hh.ru/vacancy/92898024",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR"
+        },
+        "employer": "Объединенные кондитеры"
+    },
+    {
+        "name": "Кальян-мастер (премиум-обслуживание)",
+        "requirements": "Миксовать вкусы с тонкой точностью, зная всю палитру BlackBurn и Overdose (включая лимитки и редкие партии). Держать баланс между дымностью...",
+        "url": "https://hh.ru/vacancy/119334797",
+        "salary": {
+            "from": null,
+            "to": 1500000,
+            "currency": "RUR"
+        },
+        "employer": "Oshisha"
+    },
+    {
+        "name": "Специалист контактного центра",
+        "requirements": "Умеешь четко формулировать мысли. Понимаешь мотивацию человека и находишь подход к нему. Настойчив и стрессоустойчив. Получаешь удовольствие от достижения целей. ",
+        "url": "https://hh.ru/vacancy/117190744",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "Сентинел Кредит Менеджмент"
+    },
+    {
+        "name": "Специалист отдела по работе с мошенничеством",
+        "requirements": "У тебя высшее образование. У тебя есть опыт работы на входящих/исходящих звонках от 1 года или опыт работы с...",
+        "url": "https://hh.ru/vacancy/118483417",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "СБЕР"
+    },
+    {
+        "name": "Начинающий сотрудник в аэропорт",
+        "requirements": "Желание работать в аэропорту, можно без опыта работы - мы сами обучим тебя всему, что потребуется в повседневной работе! ",
+        "url": "https://hh.ru/vacancy/119262631",
+        "salary": {
+            "from": 64800,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "Пикулина Юлия Александровна"
+    },
+    {
+        "name": "Менеджер по работе с клиентами (в офисе)",
+        "requirements": "Желателен опыт работы с клиентами. Высокие коммуникационные навыки. Внимательность, аккуратность.",
+        "url": "https://hh.ru/vacancy/118889269",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "Рост Развитие Решение"
+    },
+    {
+        "name": "Customer Support Specialist (English, French, German, Polish, Italian)",
+        "requirements": "Знание английского языка на уровне В2 и выше. Знание одного из языков: польского/немецкого/итальянского языка на уровне В...",
+        "url": "https://hh.ru/vacancy/118589148",
+        "salary": {
+            "from": 600,
+            "to": 860,
+            "currency": "USD"
+        },
+        "employer": "Аврора Саппорт"
+    },
+    {
+        "name": "SMM-менеджер/контент менеджер",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222255",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Начинающий сотрудник в аэропорт",
+        "requirements": "Желание работать в аэропорту, можно без опыта работы - мы сами обучим тебя всему, что потребуется в повседневной работе! ",
+        "url": "https://hh.ru/vacancy/119368876",
+        "salary": {
+            "from": 64800,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "Валеев Равиль Радикович"
+    },
+    {
+        "name": "SMM-менеджер/контент-менеджер",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222257",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "SMM-менеджер / контент менеджер",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222250",
+        "salary": {
+            "from": 140000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Представитель банка / Водитель-курьер документов и карт",
+        "requirements": "Права категории B. Любой водительский стаж.",
+        "url": "https://hh.ru/vacancy/119387106",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR"
+        },
+        "employer": "Elite Staffing"
+    },
+    {
+        "name": "Видеомонтажер",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/118222252",
+        "salary": null,
+        "employer": "PAVEPO"
+    },
+    {
+        "name": "Стажер (Information Technology Talent Program)",
+        "requirements": "Обладают высоким уровнем обучаемости. Заинтересованы в развитии в сфере финтеха. Проактивны и нацелены на результат.",
+        "url": "https://hh.ru/vacancy/119018943",
+        "salary": null,
+        "employer": "АТОН"
+    },
+    {
+        "name": "Охранник загородного дома",
+        "requirements": "Действующее УЧО 6 разряд, готовность пройти полиграф. Ответственное отношение к работе, внимательность, порядочность. Готовность к многозадачности, достаточная физическая подготовка, коммуникабельный...",
+        "url": "https://hh.ru/vacancy/119270231",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "ЧОП РСБ-Центр"
+    },
+    {
+        "name": "Охранник",
+        "requirements": "Хорошая физическая подготовка и выносливость. Опыт работы не менее 2-х лет в бизнес-центрах, торговых центрах, гостиницах или крупных...",
+        "url": "https://hh.ru/vacancy/119368069",
+        "salary": null,
+        "employer": "Solutions Lab"
+    },
+    {
+        "name": "Охранник (координатор)",
+        "requirements": "Опыт работы <highlighttext>охранником</highlighttext> не менее 3 лет обязателен. Наличие автомобиля (до объекта не ходит общественный транспорт). Ответственность. Внимательность.",
+        "url": "https://hh.ru/vacancy/119366256",
+        "salary": {
+            "from": 235000,
+            "to": 235000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "employer": "Adal сут"
+    },
+    {
+        "name": "Охранник в пентхаус",
+        "requirements": "+ Тактичность в общении с людьми. + Коммуникабельность. + Дисциплинированность. + Стрессоустойчивость. + Наличие УЧО обязательное! + Ответственное отношение к...",
+        "url": "https://hh.ru/vacancy/119366883",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "ЧОП Профи 9"
+    },
+    {
+        "name": "Администратор-охранник",
+        "requirements": "Ответственность. Исполнительность. Вежливость. Наличие опыта работы в охране.",
+        "url": "https://hh.ru/vacancy/119385591",
+        "salary": {
+            "from": 85000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "employer": "Крафтвэй Корпорэйшн ПЛС (ГК Росатом)"
+    },
+    {
+        "name": "Охранник, г. Москва",
+        "requirements": "наличие лицензии 4 разряда. — ответственность, умение работать в коллективе. — опыт работы в силовых структурах приветствуется.",
+        "url": "https://hh.ru/vacancy/119274687",
+        "salary": {
+            "from": 7600,
+            "to": 7600,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "Охрана МЕТАЛЛУРГ"
+    },
+    {
+        "name": "Охранник офисов",
+        "requirements": "Оxрaнник (с учо и без). - пpинимаем c УЧО и без.",
+        "url": "https://hh.ru/vacancy/118588932",
+        "salary": {
+            "from": 7500,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "Консул Медиа"
+    },
+    {
+        "name": "Личный охранник / Телохранитель",
+        "requirements": "Опыт работы в личной охране от 6 лет, опыт работы 1-ым номером. Наличие спортивных достижений приветствуется. Наличие личного травматического...",
+        "url": "https://hh.ru/vacancy/119121393",
+        "salary": {
+            "from": 200000,
+            "to": 220000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "Петрохлеб-Кубань"
+    },
+    {
+        "name": "Охранник",
+        "requirements": "Знание русского языка в совершенстве. Отсутствие заболеваний, препятствующих работе <highlighttext>охранником</highlighttext>. Отличная физическая подготовка. Владение техникой самозащиты.",
+        "url": "https://hh.ru/vacancy/119250392",
+        "salary": {
+            "from": 300,
+            "to": 300,
+            "currency": "USD",
+            "gross": false
+        },
+        "employer": "SAMAN SAFAR TRAVEL"
+    },
+    {
+        "name": "Охранник в поликлинику (Ф5)",
+        "requirements": "Обеспечивать порядок в зоне поста. Наличие удостоверения частного <highlighttext>охранника</highlighttext>, 4 разряд.",
+        "url": "https://hh.ru/vacancy/119380152",
+        "salary": {
+            "from": 82500,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "ЧОО БИЗНЕС СЕКЬЮРИТИ"
+    },
+    {
+        "name": "Охранник объектовый",
+        "requirements": "Удостоверение частного <highlighttext>охранника</highlighttext> 4-й, 6-й разряд. УЧО, периодика и мед справки должны быть действующими.",
+        "url": "https://hh.ru/vacancy/119108556",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "Частное охранное предприятие Энерговит"
+    },
+    {
+        "name": "Охранник (график)",
+        "requirements": "Опыт работы в охране предприятия от 1 до 3 лет со сменным графиком работы.",
+        "url": "https://hh.ru/vacancy/119334903",
+        "salary": {
+            "from": 6450,
+            "to": 6450,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "АКБ «ЦентроКредит»"
+    },
+    {
+        "name": "Охранник в офис",
+        "requirements": "Удостоверение <highlighttext>охранника</highlighttext> ОБЯЗАТЕЛЬНО! Грамотная речь.",
+        "url": "https://hh.ru/vacancy/119279407",
+        "salary": {
+            "from": 85000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "ЧОП Каскад"
+    },
+    {
+        "name": "Охранник",
+        "requirements": "Квалификационное удостоверение/корочки/сертификат. Опыт работы от 1 года.",
+        "url": "https://hh.ru/vacancy/119384249",
+        "salary": {
+            "from": 300000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "employer": "MM Stroy Company"
+    },
+    {
+        "name": "Охранник на КПП (Сторож)",
+        "requirements": "Опыт работы желателен, но необязателен. Ответственное отношение к работе, внимательность, дисциплинированность. Опрятный внешний вид.",
+        "url": "https://hh.ru/vacancy/119320928",
+        "salary": {
+            "from": 50000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "Пивзавод Сибирская Легенда"
+    },
+    {
+        "name": "Охранник с УЛЧО 2/4 , 1/3",
+        "requirements": "Предварительно звоните. Можно без опыта работы, но наличие УЛЧО (лицензии) обязательно! Писать чтобы записаться на собеседования можно и в выходные...",
+        "url": "https://hh.ru/vacancy/119215914",
+        "salary": {
+            "from": 85000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "RDWI"
+    },
+    {
+        "name": "Дворник-охранник в детский сад",
+        "requirements": null,
+        "url": "https://hh.ru/vacancy/119130721",
+        "salary": {
+            "from": 240000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "employer": "ДУВЦ Гармония"
+    },
+    {
+        "name": "Контролер КПП/охранник",
+        "requirements": "Коммуникабельность, добросовестное отношение к своим обязанностям.",
+        "url": "https://hh.ru/vacancy/119129580",
+        "salary": {
+            "from": 53000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "employer": "Научно-производственное предприятие Торий"
+    },
+    {
+        "name": "Охранник в офисное здание",
+        "requirements": "РАCСMАTРИВAЕM кандидатoв без УЧО! Желание работать в команде!",
+        "url": "https://hh.ru/vacancy/118262958",
+        "salary": {
+            "from": 110000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "ЧОП Профи 9"
+    },
+    {
+        "name": "Сотрудник личной охраны (Охранник-водитель)",
+        "requirements": "+ Мы с 2005 года охраняем объекты государственного значения. Рост выше среднего, хорошая спортивная физическая форма, презентабельный внешний вид, хорошие...",
+        "url": "https://hh.ru/vacancy/119346057",
+        "salary": {
+            "from": 160000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "employer": "СОЮЗ ПРЕДПРИЯТИЙ БЕЗОПАСНОСТИ РУССКАЯ ОХРАНА"
+    }
+]
